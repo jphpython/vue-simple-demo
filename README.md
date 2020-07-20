@@ -1,7 +1,7 @@
-# mydemo
+# vue-simple-demo
 
 简单的管理后台 vue2+vuex3+element2,熟悉vue
-参考链接如下
+参考链接如下:
 https://www.jianshu.com/p/2e5973fe1223
 https://www.jianshu.com/p/ff2fb2acc458
 https://blog.csdn.net/qq_34326981/article/details/98616804
